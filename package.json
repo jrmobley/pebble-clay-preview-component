@@ -1,0 +1,22 @@
+{
+  "name": "pebble-clay-preview-component",
+  "author": "JR Mobley",
+  "version": "1.0.0",
+  "files": ["dist.zip"],
+  "keywords": ["pebble-package"],
+  "dependencies": {},
+  "pebble": {
+    "projectType": "package",
+    "sdkVersion": "3",
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
