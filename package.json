@@ -1,7 +1,12 @@
 {
   "name": "pebble-clay-preview-component",
   "author": "JR Mobley",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrmobley/pebble-clay-preview-component.git"
+  },
   "files": ["dist.zip"],
   "keywords": ["pebble-package"],
   "dependencies": {},
