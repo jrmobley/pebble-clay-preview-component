@@ -1,5 +1,7 @@
 # pebble-clay-preview-component
 
+Notice: this codebase will no longer be updated.
+
 This is a custom component for the [Pebble Clay](https://github.com/pebble/clay) configuration package.
 
 ### Getting Started
